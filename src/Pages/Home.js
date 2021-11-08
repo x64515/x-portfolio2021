@@ -4,8 +4,10 @@ function Home() {
   return (
     <>
       <main ClassName="center">
-        <h2>Welcome to the homepage!</h2>
-        <p>You can do this, I believe in you.</p>
+        <h1>Welcome to Sites by X</h1>
+        <p>
+          Freelance Web Developer for Hire
+        </p>
       </main>
       <nav>
         <Link to="/about">About</Link>
